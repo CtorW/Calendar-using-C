@@ -1,7 +1,7 @@
 > [!IMPORTANT]
 > THIS CODES DEVELOP BY [LORENCE ISIDORO](https://facebook.com/wndrOF.u)
 
-> [!INFO]
+> [!TIP]
 > THIS C++ CODE HAVE A SAME CODE 
 > EXAMPLE : 
 > they have the same code, they use Zeller's Congruence Algorithm, the only difference is in the if, else statement, just added a switch statement which is the months.
