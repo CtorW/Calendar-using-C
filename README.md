@@ -10,7 +10,9 @@
 <p>Zeller's Congruence Algorithm</p>
 <p>if, else statement</p>
 <p>Basic C++ Project</p>
+
 [Click here to view the Calendar if, else statement.docs](https://docs.google.com/document/d/1TAqKsfjHH92BXO5hVEdEwcBDiYE2leo0YuhfwF2ueFY/edit?usp=sharing)
+
 ```
 int DAYSINMONTH(int month, int year) {
   if (month == 4 || month == 6 || month == 9 || month == 11) {
@@ -29,6 +31,7 @@ int DAYSOFYEAR(int year, int month, int day) {
   return (year + year / 4 - year / 100 + year / 400 + DAYSINMONTH[month - 1] + day) % 7;
 }
 ```
+
 ![Screenshot 2024-05-05 153337](https://github.com/wndrOFu/Calendar_using_C/assets/129820204/3eb2d84c-f2ea-4a96-8da0-87faef46bca7)
 
 
@@ -36,7 +39,9 @@ int DAYSOFYEAR(int year, int month, int day) {
 <p>Zeller's Congruence Algorithm</p>
 <p>if, else with Switch statement</p>
 <p>Basic C++ Project</p>
+
 [Click here to view the Calendar if, else with switch statement.docs](https://docs.google.com/document/d/1Q6hQH9IMacP5K5SZMVMq0nRex2FdoIOJ0F_hfGNmGfs/edit?usp=sharing)
+
 ```
 int DAYSINMONTH(int month, int year) {
   switch (month) {
