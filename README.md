@@ -1,8 +1,16 @@
+> [!IMPORTANT]
+> THIS CODES DEVELOP BY [LORENCE ISIDORO](https://facebook.com/wndrOF.u)
+
+> [!INFO]
+> THIS C++ CODE HAVE A SAME CODE 
+> EXAMPLE : 
+> they have the same code, they use Zeller's Congruence Algorithm, the only difference is in the if, else statement, just added a switch statement which is the months.
+
 <b>CALENDAR USING C++</b>
 <p>Zeller's Congruence Algorithm</p>
 <p>if, else statement</p>
 <p>Basic C++ Project</p>
-
+[Click here to view the Calendar if, else statement.docs](https://docs.google.com/document/d/1TAqKsfjHH92BXO5hVEdEwcBDiYE2leo0YuhfwF2ueFY/edit?usp=sharing)
 ```
 int DAYSINMONTH(int month, int year) {
   if (month == 4 || month == 6 || month == 9 || month == 11) {
@@ -28,7 +36,7 @@ int DAYSOFYEAR(int year, int month, int day) {
 <p>Zeller's Congruence Algorithm</p>
 <p>if, else with Switch statement</p>
 <p>Basic C++ Project</p>
-
+[Click here to view the Calendar if, else with switch statement.docs](https://docs.google.com/document/d/1Q6hQH9IMacP5K5SZMVMq0nRex2FdoIOJ0F_hfGNmGfs/edit?usp=sharing)
 ```
 int DAYSINMONTH(int month, int year) {
   switch (month) {
