@@ -21,10 +21,6 @@ int main() {
     system("cls");
     system("Color 0F");
     cout << "\n\n";
-    cout << setw (25);
-    cout << "\t\t\t\t+-------------------------------+\n";
-    cout << "--------------------------------| Calendar Group 10 Activity 2  |-----------------------------------\n";
-    cout << "\t\t\t\t+-------------------------------+\n";
     bool validInput = false;
     while (!validInput) {
       cout << "Enter month (1-12): ";
