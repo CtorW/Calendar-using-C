@@ -13,7 +13,7 @@
 
 [Click here to view the Calendar if, else statement.docs](https://docs.google.com/document/d/1TAqKsfjHH92BXO5hVEdEwcBDiYE2leo0YuhfwF2ueFY/edit?usp=sharing)
 
-```
+```c++
 int DAYSINMONTH(int month, int year) {
   if (month == 4 || month == 6 || month == 9 || month == 11) {
     return 30;
@@ -42,7 +42,7 @@ int DAYSOFYEAR(int year, int month, int day) {
 
 [Click here to view the Calendar if, else with switch statement.docs](https://docs.google.com/document/d/1Q6hQH9IMacP5K5SZMVMq0nRex2FdoIOJ0F_hfGNmGfs/edit?usp=sharing)
 
-```
+```c++
 int DAYSINMONTH(int month, int year) {
   switch (month) {
     case 1:
