@@ -1,9 +1,6 @@
-
-//Group 10 Calendar Activity 1 
 #include <iostream>
 #include <string>
 #include <cstdlib>
-#include <conio.h>
 #include <iomanip>
 
 using namespace std;
@@ -18,9 +15,6 @@ int main() {
 
   do {
     int month, day, year;
-
-    system("cls");
-    system("Color 0F");
     cout << "\n\n";
     bool validInput = false;
     while (!validInput) {
