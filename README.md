@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> THIS CODES ARE DEVELOPED BY[LORENCE ISIDORO](https://facebook.com/wndrOF.u)
+> THIS CODES ARE DEVELOPED BY [LORENCE ISIDORO](https://facebook.com/CTor.66)
 
 > [!TIP]
 > THIS C++ CODE HAVE A SAME CODE 
